@@ -2,6 +2,12 @@ body{
 	margin: 0;
 	font-family: helvetica;
 	font-weight: 100;
+	background-color: red;
+}
+
+h1 {
+	font-weight: 100;
+	color: white;
 }
 
 #logo {
